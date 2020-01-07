@@ -1,0 +1,24 @@
+{
+  "name": "portfind",
+  "version": "1.0.0",
+  "description": "Find a port at localhost, sync or async.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+	"keywords": [
+		"port",
+    "find",
+    "get",
+    "port",
+		"finder",
+		"portfinder",
+		"portfind",
+		"scan",
+		"random",
+		"preferred",
+		"chosen"
+	],
+  "author": "gaoyuan.ggg@gmail.com",
+  "license": "ISC"
+}
